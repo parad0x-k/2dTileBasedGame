@@ -17,7 +17,7 @@ TagManager:
   - Background
   - Enemy
   - Anamolies
-  - 
+  - Interactables
   - 
   - 
   - 
@@ -58,4 +58,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 4075847353
+    locked: 0
+  - name: Interactables
+    uniqueID: 75824521
     locked: 0
