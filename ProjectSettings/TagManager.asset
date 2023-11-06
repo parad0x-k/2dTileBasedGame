@@ -18,7 +18,7 @@ TagManager:
   - Enemy
   - Anamolies
   - Interactables
-  - 
+  - Coins
   - 
   - 
   - 
@@ -61,4 +61,7 @@ TagManager:
     locked: 0
   - name: Interactables
     uniqueID: 75824521
+    locked: 0
+  - name: Coins
+    uniqueID: 3745057955
     locked: 0
